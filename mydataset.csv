@@ -1,0 +1,560 @@
+Sentence,Label
+close left door,close door
+close left flap door,close door
+close left lamborghini door,close door
+close left scissor door,close door
+close left wing door,close door
+close the car trunk,close door
+close the trunk,close door
+close left lambo door,close door
+open left door,open door
+open left flap door,open door
+open left lambo door,open door
+open left lamborghini door,open door
+open left scissor door,open door
+open left wing door,open door
+open door,open door
+open flap door,open door
+open lambo door,open door
+open lamborghini door,open door
+open the trunk,open door
+open the car trunk,open door
+open scissor door,open door
+close right door,close door
+close right flap door,close door
+close right lamborghini door,close door
+close right scissor door,close door
+close right wing door,close door
+close right lambo door,close door
+open right door,open door
+open right flap door,open door
+open right lambo door,open door
+open right lamborghini door,open door
+open right scissor door,open door
+open right wing door,open door
+I want to set the left window open,open window
+Pull down of the left window,open window
+Set the left window open,open window
+Move the left window down up,open window
+Have the left window lower,open window
+I'd like to open the left window,open window
+Open the left window,open window
+Get the left window open,open window
+Lower a quarter of the left window,open window
+Set the left window down to a quarter,open window
+I want to have a quarter of the left window opened,open window
+Have the left window down to a quarter,open window
+Roll a quarter of the left window down,open window
+Pull down just a quarter of the left window,open window
+I'd like the left window set to a quarter opened,open window
+Can you roll down the left window to a quarter,open window
+Decrease the opening of the left window down,open window
+Can you roll down the left window to a quarter,open window
+I want to set the right window open,open window
+Pull down of the right window,open window
+Set the right window open,open window
+Move the right window down up,open window
+Have the right window lower,open window
+I'd like to open the right window,open window
+Open the right window,open window
+Get the right window open,open window
+Lower a quarter of the right window,open window
+Set the right window down to a quarter,open window
+I want to have a quarter of the right window,open window
+Have the right window down to a quarter,open window
+Roll a quarter of the right window down,open window
+Pull down just a quarter of the right window,open window
+I'd like the right window set to a quarter,open window
+Can you roll down the right window to a quarter,open window
+Decrease the opening of the right window down,open window
+Can you roll down the right window to a quarter,open window
+Raise a quarter of the left window,close window
+Set the left window up to a quarter,close window
+I want to have a quarter of the left window closed,close window
+Have the left window up to a quarter,close window
+Roll a quarter of the left window up,close window
+Pull up just a quarter of the left window,close window
+I'd like the left window set to a quarter closed,close window
+Can you roll up the left window to a quarter,close window
+I want to set the left window close,close window
+Pull up the left window,close window
+Set the left window to close,close window
+Move the left window up,close window
+Have the left window raised,close window
+I'd like to close the left window,close window
+Close the left window,close window
+Get the left window close,close window
+Raise a quarter of the right window,close window
+Set the right window up to a quarter,close window
+I want to have a quarter of the right window closed,close window
+Have the right window up to a quarter,close window
+Roll a quarter of the right window up,close window
+Pull up just a quarter of the right window,close window
+I'd like the right window set to a quarter closed,close window
+Can you roll up the right window to a quarter,close window
+I want to set the right window close,close window
+Pull up the right window,close window
+Set the right window to close,close window
+Move the right window up,close window
+Have the right window raised,close window
+I'd like to close the right window,close window
+Close the right window,close window
+Get the right window close,close window
+Open two car windows,open window
+Close two car windows,close window
+activate bluetooth,open bluetooth
+bluetooth on,open bluetooth
+initiate bluetooth,open bluetooth
+open bluetooth,open bluetooth
+switch on bluetooth,open bluetooth
+turn on bluetooth,open bluetooth
+turn on the bluetooth,open bluetooth
+need to initiate bluetooth,open bluetooth
+need to activate bluetooth,open bluetooth
+establish bluetooth connection,open bluetooth
+boot up bluetooth,open bluetooth
+begin to establish bluetooth connection,open bluetooth
+enable bluetooth,open bluetooth
+power on bluetooth,open bluetooth
+start bluetooth,open bluetooth
+commence bluetooth,open bluetooth
+resume bluetooth ,open bluetooth
+restart bluetooth,open bluetooth
+begin bluetooth,open bluetooth
+connect bluetooth,open bluetooth
+power up the bluetooth,open bluetooth
+deactivate bluetooth,close bluetooth
+bluetooth off,close bluetooth
+stop bluetooth,close bluetooth
+close bluetooth,close bluetooth
+switch off bluetooth,close bluetooth
+turn off bluetooth,close bluetooth
+turn off the bluetooth,close bluetooth
+need to stop bluetooth,close bluetooth
+need to deactivate bluetooth,close bluetooth
+disprove bluetooth connection,close bluetooth
+refute bluetooth connection,close bluetooth
+shut down bluetooth,close bluetooth
+begin to stop bluetooth connection,close bluetooth
+disable bluetooth,close bluetooth
+power off bluetooth,close bluetooth
+end bluetooth,close bluetooth
+finish bluetooth,close bluetooth
+wrap up bluetooth ,close bluetooth
+finish off bluetooth,close bluetooth
+disconnect bluetooth,close bluetooth
+power down the bluetooth,close bluetooth
+set steering wheel boost to gentle,steering wheel
+set steering wheel boost to gentle mode,steering wheel
+set steering wheel boost to soft,steering wheel
+set steering wheel boost to soft mode,steering wheel
+steering wheel boost set to gentle,steering wheel
+steering wheel boost set to gentle mode,steering wheel
+steering wheel boost set to soft,steering wheel
+steering wheel boost set to soft mode,steering wheel
+switch steering wheel boost to gentle,steering wheel
+turn steering wheel boost to gentle,steering wheel
+adjust steering wheel boost to gentle,steering wheel
+change steering wheel boost to gentle,steering wheel
+shift steering wheel boost to gentle,steering wheel
+to set steering wheel boost to gentle,steering wheel
+to switch steering wheel boost to gentle,steering wheel
+to turn steering wheel boost to gentle,steering wheel
+to adjust steering wheel boost to gentle,steering wheel
+to change steering wheel boost to gentle,steering wheel
+to shift steering wheel boost to gentle,steering wheel
+switching steering wheel boost to gentle,steering wheel
+turning steering wheel boost to gentle,steering wheel
+adjusting steering wheel boost to gentle,steering wheel
+changing steering wheel boost to gentle,steering wheel
+shifting steering wheel boost to gentle,steering wheel
+setting steering wheel boost to gentle,steering wheel
+steering wheel boost to be set to gentle,steering wheel
+steering wheel boost to be changed to gentle,steering wheel
+steering wheel boost to be shifted to gentle,steering wheel
+steering wheel boost to be adjusted to gentle,steering wheel
+steering wheel boost to be turned to gentle,steering wheel
+steering wheel boost to be switched to gentle,steering wheel
+steering wheel boost being set to gentle,steering wheel
+i want to set steering wheel boost to gentle,steering wheel
+i want to change steering wheel boost to gentle ,steering wheel
+i want to adjust steering wheel boost to gentle,steering wheel
+i want to shift steering wheel boost to gentle,steering wheel
+i want to turn steering wheel boost to gentle,steering wheel
+i want to switch steering wheel boost to gentle,steering wheel
+can you change steering wheel boost to gentle,steering wheel
+can you shift steering wheel boost to gentle,steering wheel
+can you adjust steering wheel boost to gentle,steering wheel
+can you turn steering wheel boost to gentle,steering wheel
+can you switch steering wheel boost to gentle,steering wheel
+you must set steering wheel boost to gentle,steering wheel
+you must change steering wheel boost to gentle,steering wheel
+you must shift steering wheel boost to gentle,steering wheel
+you must turn steering wheel boost to gentle,steering wheel
+you must switch steering wheel boost to gentle,steering wheel
+i'd like to adjust steering wheel boost to gentle,steering wheel
+go ahead to switch steering wheel boost to gentle,steering wheel
+can you set steering wheel boost to gentle,steering wheel
+shall we shift steering wheel. boost to gentle,steering wheel
+you must adjust steering wheel boost to gentle,steering wheel
+could you turn steering wheel boost to gentle for me,steering wheel
+i am going to switch steering wheel boost to gentle,steering wheel
+we ought to set steering wheel boost to gentle,steering wheel
+i think we have to change steering wheel boost to gentle,steering wheel
+we decide to shift steering wheel boost to gentle,steering wheel
+we tend to adjust steering wheel boost to gentle,steering wheel
+go on turning steering wheel boost to gentle,steering wheel
+please do me a favor to switch steering wheel boost to gentle,steering wheel
+you have to adjust steering wheel boost to gentle,steering wheel
+you should shift steering wheel boost to gentle inside this car,steering wheel
+i order you to turn steering wheel boost to gentle,steering wheel
+increase steering assistance,steering wheel
+increase steering wheel assistance,steering wheel
+make steering easier,steering wheel
+make steering wheel softer,steering wheel
+Make the steering wheel more comfortable,steering wheel
+reduce steering wheel drag,steering wheel
+Reduce steering wheel resistance,steering wheel
+Relax the steering wheel,steering wheel
+photograph by rear camera,camera
+photograph by the back camera,camera
+photograph by the rear camera,camera
+photograph via back camera,camera
+photograph via rear camera,camera
+photograph via the back camera,camera
+photograph via the rear camera,camera
+photograph with back camera,camera
+photograph with rear camera,camera
+photograph with the back camera,camera
+photograph with the rear camera,camera
+rear camera to photograph,camera
+rear camera to shoot,camera
+rear camera to shoot photos,camera
+rear camera to shoot pictures,camera
+rear camera to take photos,camera
+rear camera to take pictures,camera
+shoot by back camera,camera
+shoot by rear camera,camera
+shoot by the back camera,camera
+shoot by the rear camera,camera
+shoot photos by back camera,camera
+shoot photos by rear camera,camera
+shoot photos by the back camera,camera
+shoot photos by the rear camera,camera
+shoot photos via back camera,camera
+shoot photos via rear camera,camera
+shoot photos via the back camera,camera
+shoot photos via the rear camera,camera
+shoot photos with back camera,camera
+shoot photos with rear camera,camera
+shoot photos with the back camera,camera
+shoot photos with the rear camera,camera
+shoot pictures by back camera,camera
+shoot pictures by rear camera,camera
+shoot pictures by the back camera,camera
+shoot pictures by the rear camera,camera
+shoot pictures via back camera,camera
+shoot pictures via rear camera,camera
+shoot pictures via the back camera,camera
+shoot pictures via the rear camera,camera
+shoot via back camera,camera
+shoot via rear camera,camera
+shoot via the back camera,camera
+left camera to take photos,camera
+left camera to take pictures,camera
+photograph by left camera,camera
+photograph by the left camera,camera
+photograph via left camera,camera
+photograph via the left camera,camera
+photograph with left camera,camera
+photograph with the left camera,camera
+shoot by left camera,camera
+shoot by the left camera,camera
+shoot photos by left camera,camera
+shoot photos by the left camera,camera
+shoot photos via left camera,camera
+shoot photos via the left camera,camera
+shoot photos with left camera,camera
+shoot photos with the left camera,camera
+shoot pictures by left camera,camera
+shoot pictures by the left camera,camera
+shoot pictures via left camera,camera
+shoot pictures via the left camera,camera
+shoot pictures with left camera,camera
+shoot pictures with the left camera,camera
+shoot via left camera,camera
+shoot via the left camera,camera
+shoot with left camera,camera
+shoot with the left camera,camera
+take photos by left camera,camera
+take photos by the left camera,camera
+take photos via left camera,camera
+take photos via the left camera,camera
+take photos with left camera,camera
+take photos with the left camera,camera
+take pictures by left camera,camera
+take pictures by the left camera,camera
+take pictures via left camera,camera
+take pictures via the left camera,camera
+take pictures with left camera,camera
+take photos with the left camera,camera
+take pictures by left camera,camera
+take pictures by the left camera,camera
+take pictures via left camera,camera
+take pictures via the left camera,camera
+take pictures with left camera,camera
+take pictures with the left camera,camera
+record photos by left camera,camera
+record photos via left camera,camera
+record photos with left camera,camera
+record photos through left camera,camera
+initiate the panoramic camera,camera
+initiate the whole scene camera,camera
+launch 360 degrees camera,camera
+launch omnidirectional camera,camera
+launch the 360 degrees camera,camera
+launch the full view camera,camera
+launch the omnidirectional camera,camera
+launch the panoramic camera,camera
+launch the whole scene camera,camera
+set 360 degrees camera,camera
+set full view camera,camera
+Set steering wheel to comfort,steering wheel
+steering wheel is too heavy,steering wheel
+The steering wheel is binding too much,steering wheel
+Make the steering wheel easier to steer,steering wheel
+Soften the steer of the steering wheel,steering wheel
+The steering wheel is too hard Make it softer,steering wheel
+Get the steering wheel to steer softer,steering wheel
+Set the steering wheel control to soft,steering wheel
+I want to softly steer the steering wheel,steering wheel
+I want to steer softly,steering wheel
+Soften the steering wheel controls,steering wheel
+Help me steer the steering wheel easier Sentence,steering wheel
+Correct the steering controls to soft,steering wheel
+Revise steering wheel boost to gentle,steering wheel
+Alter steering wheel boost to soft,steering wheel
+Modify steering wheel boost to gentle,steering wheel
+Arrange steering wheel boost to soft,steering wheel
+Deploy steering wheel boost to soft,steering wheel
+Direct steering wheel boost to soft,steering wheel
+Activate gentle mode on the steering wheel boost,steering wheel
+Put the steering wheel boost into gentle mode,steering wheel
+Use the gentle preset on the steering wheel boost,steering wheel
+Select the soft setting on the steering wheel boost,steering wheel
+Initiate gentle mode on the steering wheel boost,steering wheel
+Fix steering mode boost to gentle,steering wheel
+Bring steering mode boost to gentle,steering wheel
+set steering wheel boost to normal,steering wheel
+set steering wheel boost to normal mode,steering wheel
+set steering wheel boost to standard,steering wheel
+set steering wheel boost to standard mode,steering wheel
+steering wheel boost set to normal,steering wheel
+steering wheel boost set to normal mode,steering wheel
+steering wheel boost set to standard,steering wheel
+steering wheel boost set to standard mode,steering wheel
+switch steering wheel boost to normal,steering wheel
+turn steering wheel boost to normal,steering wheel
+adjust steering wheel boost to normal,steering wheel
+change steering wheel boost to normal,steering wheel
+shift steering wheel boost to normal,steering wheel
+to set steering wheel boost to normal,steering wheel
+to switch steering wheel boost to normal,steering wheel
+to turn steering wheel boost to normal,steering wheel
+Direct steering wheel boost to standard,steering wheel
+orient steering wheel boost to normal,steering wheel
+change the boost mode on the steering wheel to normal,steering wheel
+Activate standard mode on the steering wheel boost,steering wheel
+Put the steering wheel boost into standard mode,steering wheel
+use the standard preset on the steering wheel boost,steering wheel
+Select the normal setting on the steering wheel boost,steering wheel
+Make the steering wheel boost set to standard mode,steering wheel
+Bring steering wheel boost to standard,steering wheel
+Fix steering wheel boost to standard,steering wheel
+set steering wheel boost to sport,steering wheel
+set steering wheel boost to sport mode,steering wheel
+steering wheel boost set to sport,steering wheel
+steering wheel boost set to sport mode,steering wheel
+switch steering wheel boost to sport,steering wheel
+turn steering wheel boost to sport,steering wheel
+adjust steering wheel boost to sport,steering wheel
+change steering wheel boost to sport,steering wheel
+shift steering wheel boost to sport,steering wheel
+to set steering wheel boost to sport,steering wheel
+to switch steering wheel boost to sport,steering wheel
+to turn steering wheel boost to sport,steering wheel
+to adjust steering wheel boost to sport,steering wheel
+to change steering wheel boost to sport,steering wheel
+to shift steering wheel boost to sport,steering wheel
+switching steering wheel boost to sport,steering wheel
+turning steering wheel boost to sport,steering wheel
+adjusting steering wheel boost to sport,steering wheel
+changing steering wheel boost to sport,steering wheel
+shifting steering wheel boost to sport,steering wheel
+setting steering wheel boost to sport,steering wheel
+i want to shift steering wheel boost to sport,steering wheel
+i want to turn steering wheel boost to sport,steering wheel
+i want to switch steering wheel boost to sport,steering wheel
+can you set steering wheel boost to sport,steering wheel
+can you change steering wheel boost to sport,steering wheel
+can you shift steering wheel boost to sport,steering wheel
+can you adjust steering wheel boost to sport,steering wheel
+can you turn steering wheel boost to sport,steering wheel
+can you switch steering wheel boost to sport,steering wheel
+you must set steering wheel boost to sport,steering wheel
+you must change steering wheel boost to sport,steering wheel
+you must adjust steering wheel boost to sport,steering wheel
+you must shift steering wheel boost to sport,steering wheel
+you must turn steering wheel boost to sport,steering wheel
+you must switch steering wheel boost to sport,steering wheel
+can i set steering wheel boost to sport,steering wheel
+i'd like to adjust steering wheel boost to sport,steering wheel
+go ahead to switch steering wheel boost to sport,steering wheel
+shall we shift steering wheel boost to sport,steering wheel
+could you turn steering wheel boost to sport for me,steering wheel
+i am going to switch steering wheel boost to sport,steering wheel
+we ought to set steering wheel boost to sport,steering wheel
+i think we have to change steering wheel boost to sport,steering wheel
+we decide to shift steering wheel boost to sport,steering wheel
+we tend to adjust steering wheel boost to sport,steering wheel
+go on turning steering wheel boost to sport,steering wheel
+please do me a favor to switch steering wheel boost to sport,steering wheel
+you have to adjust steering wheel boost to sport,steering wheel
+you should shift steering wheel boost to sport inside this car,steering wheel
+i order you to turn steering wheel boost to sport,steering wheel
+I want to boost the steering control to sport,steering wheel
+I would like to drive in sports mode,steering wheel
+Get the steering wheel controls to sport,steering wheel
+Have the sport steering on,steering wheel
+Can you turn the steering wheel's sport mode on,steering wheel
+Sport mode steering on,steering wheel
+I want to drive the steering wheel in sport mode,steering wheel
+Boost the steering wheel to sports mode,steering wheel
+please turn on sport mode for the steering wheel,steering wheel
+Help me steer the car in sport mode,steering wheel
+Arrange steering wheel boost to sport mode,steering wheel
+Deploy steering wheel boost to sport mode,steering wheel
+Revise steering wheel boost to sport mode,steering wheel
+Modify steering wheel boost to sport mode,steering wheel
+Orient steering wheel boost to sport mode,steering wheel
+Alter steering wheel boost to sport mode,steering wheel
+change the boost mode on the steering wheel to sport,steering wheel
+Activate sport mode on the steering wheel boost,steering wheel
+Put the steering wheel boost into sport mode,steering wheel
+Use the sport preset on the steering wheel boost,steering wheel
+Select the sport setting on the steering wheel boost,steering wheel
+Make the steering wheel boost set to sport mode,steering wheel
+Post steering wheel boost to sport mode,steering wheel
+Fix steering wheel boost to sport mode ,steering wheel
+Bring steering wheel boost to sport mode,steering wheel
+to take a shot of photos by back camera,camera
+left camera to photograph,camera
+left camera to shoot,camera
+left camera to shoot photos,camera
+left camera to shoot pictures,camera
+take a shot of photos by left camera,camera
+take a shot of photos with left camera,camera
+take a shot of photos via left camera,camera
+take a shot of photos through left camera,camera
+get photos by left camera,camera
+get photos via left camera,camera
+get photos with left camera,camera
+get photos through left camera,camera
+I want to record photos by left camera,camera
+I want to record photos via left camera,camera
+I want to record photos with left camera,camera
+I want to record photos through left camera,camera
+I want to take a shot of photos by left camera,camera
+I want to take a shot of photos with left camera,camera
+I want to take a shot of photos via left camera,camera
+I want to take a shot of photos through left camera,camera
+I want to get photos by left camera,camera
+I want to get photos via left camera,camera
+I want to get photos with left camera,camera
+I want to get photos through left camera,camera
+I want to use left camera to get photos,camera
+I want to use left camera to shoot,camera
+I want to use left camera to take photos,camera
+getting photos by left camera,camera
+getting photos via left camera,camera
+getting photos with left camera,camera
+getting photos through left camera,camera
+taking a shot of photos by left camera,camera
+taking a shot of photos with left camera,camera
+taking a shot of photos via left camera,camera
+taking a shot of photos through left camera,camera
+to record photos by left camera,camera
+to record photos via left camera,camera
+to record photos with left camera,camera
+to record photos through left camera,camera
+to take a shot of photos by left camera,camera
+photograph by right camera,camera
+photograph by the right camera,camera
+photograph via right camera,camera
+photograph via the right camera,camera
+photograph with right camera,camera
+photograph with the right camera,camera
+right camera to photograph,camera
+right camera to shoot,camera
+right camera to shoot photos,camera
+right camera to shoot pictures,camera
+right camera to take photos,camera
+right camera to take pictures,camera
+shoot by right camera,camera
+shoot by the right camera,camera
+shoot photos by right camera,camera
+shoot photos by the right camera,camera
+shoot photos via right camera,camera
+shoot photos via the right camera,camera
+shoot photos with right camera,camera
+shoot photos with the right camera,camera
+shoot pictures by right camera,camera
+shoot pictures by the right camera,camera
+shoot pictures via right camera,camera
+shoot pictures via the right camera,camera
+shoot pictures with right camera,camera
+shoot pictures with the right camera,camera
+shoot via right camera,camera
+shoot via the right camera,camera
+shoot with right camera,camera
+shoot with the right camera,camera
+take photos by right camera,camera
+take photos by the right camera,camera
+take photos via right camera,camera
+take photos via the right camera,camera
+take photos with right camera,camera
+take photos with the right camera,camera
+take pictures by right camera,camera
+take pictures by the right camera,camera
+take pictures via right camera,camera
+take pictures via the right camera,camera
+take pictures with right camera,camera
+take pictures with the right camera,camera
+record photos by right camera,camera
+record photos via right camera,camera
+record photos with right camera,camera
+record photos through right camera,camera
+take a shot of photos by right camera,camera
+take a shot of photos with right camera,camera
+take a shot of photos via right camera,camera
+take a shot of photos through right camera,camera
+get photos by right camera,camera
+get photos via right camera,camera
+get photos with right camera,camera
+get photos through right camera,camera
+I want to record photos by right camera,camera
+I want to record photos via right camera,camera
+I want to record photos with right camera,camera
+I want to record photos through right camera,camera
+I want to take a shot of photos by right camera,camera
+I want to take a shot of photos with right camera,camera
+I want to take a shot of photos via right camera,camera
+I want to take a shot of photos through right camera,camera
+I want to get photos by right camera,camera
+I want to get photos via right camera,camera
+I want to get photos with right camera,camera
+I want to get photos through right camera,camera
+getting photos by right camera,camera
+getting photos via right camera,camera
+getting photos with right camera,camera
+getting photos through right camera,camera
