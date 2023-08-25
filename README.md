@@ -1,9 +1,6 @@
 # digital-voice-assistant-in-car
-Certainly! Here's a description that you can use for your project's `README.md` file on GitHub:
 
-# Voice Command Recognition System
-
-Welcome to the Voice Command Recognition System project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning techniques to identify spoken commands from the audio input.
+Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning techniques to identify spoken commands from the audio input.
 
 ## Project Overview
 
