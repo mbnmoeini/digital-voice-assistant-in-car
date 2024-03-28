@@ -18,7 +18,7 @@ The Voice Command Recognition System aims to recognize and classify commands fro
 ## Project Components
 
 - **Data Preprocessing:** Preprocessing techniques included lowercasing, tokenization, lemmatization, and the removal of numbers, contractions, empty strings, and stop words. These techniques aimed to standardize the data format and remove irrelevant information that could hinder model performance. These pre-processing techniques helped filter noise, reduce sparsity, and enhance the semantic content extracted from the text. The uniformly pre-processed data served as input for subsequent model training and evaluation in the classification phase of the proposed framework.
-- 
+  
 - **Model Training:** Various Machine learning models such as MLP, Logistic Regression, RandomForest, GradientBoosting, and SVM are trained on our dataset and the best ones are chosen by comparing the classification results. Support Vector Machine (SVM) was chosen as the best model and trained on the preprocessed data to learn the patterns associated with each command.
 
 - **Real-Time Recognition:** The system captures and processes audio in real-time, predicting the spoken command using the trained models.
@@ -35,8 +35,7 @@ The Voice Command Recognition System aims to recognize and classify commands fro
 - **Multilingual Support:** Extend the project to handle commands and instructions in multiple languages. This would require translating and preprocessing text in various languages while maintaining the model's accuracy.
 - **Continuous Learning:** Explore techniques to enable the system to learn new commands from user input, enhancing adaptability.
 - **Collaborative Filtering:** Implement collaborative filtering techniques to learn from the preferences of different users and adapt the model accordingly.
-- ** Utilizing Pre-trained Language Models (LLMs):**
-Explore the utilization of pre-trained Large Language Models for Transfer Learning to improve the efficiency of the text classification model, especially in scenarios characterized by limited labeled data.
+- **Utilizing Pre-trained Language Models (LLMS):** Explore the utilization of pre-trained Large Language Models for Transfer Learning to improve the efficiency of the text classification model, especially in scenarios characterized by limited labeled data.
 
 
 ## Contributions
