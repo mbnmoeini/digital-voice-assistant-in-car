@@ -1,10 +1,13 @@
-# digital-voice-assistant-in-car
+# In-vehicle AI-driven Digital Voice Assistant
 
 Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.
 
 ## Project Overview
 
 The Voice Command Recognition System aims to recognize and classify commands from audio recordings. The system can distinguish between various predefined commands, such as opening doors, windows, or Bluetooth connections, controlling the steering wheel, and more. The project utilizes a combination of natural language processing (NLP) and machine learning (ML) techniques to achieve accurate and reliable command recognition.
+
+## Dataset
+In this project, in-vehicle commands of this [dataset](https://github.com/mbnmoeini/digital-voice-assistant-in-car/blob/main/mydataset.csv) have been used.
 
 ## Key Features
 
