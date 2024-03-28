@@ -1,4 +1,4 @@
-# in-vehicle-digital-voice-assistant
+# digital-voice-assistant-in-car
 
 Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.
 
