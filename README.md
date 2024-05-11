@@ -1,10 +1,11 @@
 # In-vehicle AI-driven Digital Voice Assistant
-Mobina Moeini <sup>1</sup>, Rouhollah Ahmadian <sup>1</sup>, Mehdi Ghatee <sup>1</sup>
+[Mobina Moeini](https://www.linkedin.com/in/mobina-moeini/) <sup>1</sup>, [Rouhollah Ahmadian](https://www.linkedin.com/in/ruhollah-ahmadian) <sup>1</sup>, [Mehdi Ghatee](https://aut.ac.ir/cv/2174/MEHDI-GHATEE?slc_lang=en&&cv=2174&mod=scv) <sup>1</sup>  
+
 <sup>1</sup>Amirkabir University of Technology  
 
 ## Project Overview
 
-Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.
+Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.  
 The Voice Command Recognition System aims to recognize and classify commands from audio recordings. The system can distinguish between various predefined commands, such as opening doors, windows, or Bluetooth connections, controlling the steering wheel, and more. The project utilizes a combination of natural language processing (NLP) and machine learning (ML) techniques to achieve accurate and reliable command recognition.
 
 ## Dataset
@@ -19,8 +20,7 @@ In this project, in-vehicle commands of this [dataset](https://github.com/mbnmoe
 - **Unknown Command Handling:** The system includes the ability to handle unknown or ambiguous commands by assigning them a specific "Unknown" label, ensuring robustness and adaptability.
 
 ## Methodology
-![The architecture of proposed model in training stage](https://drive.google.com/file/d/1XEMfF3mA77zZcJfCAEsMGAJZmRRBnBKW/view?usp=sharing)
-
+![The architecture of proposed model in training stage](https://uploadkon.ir/uploads/27f411_24framework.jpg)
 
 ## Project Components
 
