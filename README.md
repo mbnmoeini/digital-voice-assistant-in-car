@@ -1,9 +1,10 @@
 # In-vehicle AI-driven Digital Voice Assistant
-
-Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.
+Mobina Moeini <sup>1</sup>, Rouhollah Ahmadian <sup>1</sup>, Mehdi Ghatee <sup>1</sup>
+<sup>1</sup>Amirkabir University of Technology  
 
 ## Project Overview
 
+Welcome to the Digital Voice Command Recognition System in-car project! This repository hosts the source code and resources for a voice command recognition system that utilizes machine learning and natural language processing techniques to identify car-related commands from the audio input.
 The Voice Command Recognition System aims to recognize and classify commands from audio recordings. The system can distinguish between various predefined commands, such as opening doors, windows, or Bluetooth connections, controlling the steering wheel, and more. The project utilizes a combination of natural language processing (NLP) and machine learning (ML) techniques to achieve accurate and reliable command recognition.
 
 ## Dataset
@@ -17,10 +18,17 @@ In this project, in-vehicle commands of this [dataset](https://github.com/mbnmoe
 
 - **Unknown Command Handling:** The system includes the ability to handle unknown or ambiguous commands by assigning them a specific "Unknown" label, ensuring robustness and adaptability.
 
+## Methodology
+![The architecture of proposed model in training stage](https://drive.google.com/file/d/1XEMfF3mA77zZcJfCAEsMGAJZmRRBnBKW/view?usp=sharing)
+
 
 ## Project Components
 
+- **Speech Recognition:** We leverage the open-source Vosk model for speech recognition, ensuring accurate transcription of spoken user input into text format. Vosk stands out for its offline functionality, high accuracy, and multilingual support. What sets Vosk apart is its ease of customization.
+
 - **Data Preprocessing:** Preprocessing techniques included lowercasing, tokenization, lemmatization, and the removal of numbers, contractions, empty strings, and stop words. These techniques aimed to standardize the data format and remove irrelevant information that could hinder model performance. These pre-processing techniques helped filter noise, reduce sparsity, and enhance the semantic content extracted from the text. The uniformly pre-processed data served as input for subsequent model training and evaluation in the classification phase of the proposed framework.
+
+- **Data Augmentation:** To address our dataset's limitations, we employ augmentation techniques like random swapping and synonym replacement. These methods expand the training set and mitigate overfitting risks.
   
 - **Model Training:** Various Machine learning models such as MLP, Logistic Regression, RandomForest, GradientBoosting, and SVM are trained on our dataset and the best ones are chosen by comparing the classification results. Support Vector Machine (SVM) was chosen as the best model and trained on the preprocessed data to learn the patterns associated with each command.
 
